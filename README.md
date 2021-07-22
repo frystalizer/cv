@@ -1,6 +1,6 @@
 # Tan Le
 
-_Software engineer with more than 4 years working with Java, familiar with Agile methodology, based in Ho Chi Minh, Viet Nam._ <br>
+_Software engineer with more than 6 years working with Java, familiar with Agile methodology, based in Ho Chi Minh, Viet Nam._ <br>
 
 Email   : frystalizer@gmail.com <br>
 Mobile  : 078 591 7402 <br>
