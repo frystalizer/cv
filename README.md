@@ -10,8 +10,8 @@ GitHub  : https://github.com/frystalizer/ <br>
 ## 💻 Technical Experience
 
 **Software Engineer** @ [ubitec](https://ubitec.com/) _(Jan 2018 - Present)_ <br>
-  - Worked in a team of four developers to maintain existing financial solutions: [VZ](https://www.vermoegenszentrum.ch/), [ABS](https://www.abs.ch/en/), [WIR](https://www.wir.ch/) and develop new online digital identification solution ubiID.
-   - **_Skill set utilized:_** HTML, CSS, Javascript, Primefaces, REST, SOAP, Docker, Angular, Spring Boot.
+  - Worked in a team of four developers to maintain existing financial solutions: [VZ](https://www.vermoegenszentrum.ch/), [ABS](https://www.abs.ch/en/), [WIR](https://www.wir.ch/) and develop new online digital identification solution [UMB_ID](https://www.umb.ch/en/products/umb-id).
+   - **_Skill set utilized:_** HTML, CSS, Javascript, Primefaces, REST, SOAP, Docker, Angular, Spring Boot, OpenShift.
 <br><br>
 
 **Software Engineer** @ [Axon Active Viet Nam](https://www.axonactive.com/) _(Oct 2016 - Sep 2017)_ <br>
