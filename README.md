@@ -12,7 +12,17 @@ _Software engineer with more than 6 years working with Java, familiar with Agile
 
 ### Advanced Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 - Present)_ <br/>
 
-- Worked as a full stack developer
+- Works as a Kotlin backend engineer.
+- Delivers both functional and non functional requirements and features.
+- Provides support for Production issues.
+
+#### Project(s):
+**[Trust Bank](https://trustbank.sg/)**: An digital bank for Singapore region
+
+Technologies: REST, Spring Boot, OpenAPI, Postgres, Kubernetes, Kafka.
+
+Achievements:
+- Gains hands-on experience using Kafka, Kubernetes
 
 ### Full Stack Software Engineer @ [ubitec](https://ubitec.com/) _(Nov 2017 - April 2022)_ <br/>
 - Provided leadership for a team of 3 junior software engineers and mentorship for newcomers, supported team members with technical and business concern.
