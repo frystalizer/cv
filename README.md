@@ -17,7 +17,7 @@ _Software engineer with more than 6 years working with Java, familiar with Agile
 - Provides support for Production issues.
 
 #### Project(s):
-**[Trust Bank](https://trustbank.sg/)**: An digital bank for Singapore region
+**[Digital Bank]**: An digital bank for Singapore region
 
 Technologies: REST, Spring Boot, OpenAPI, Postgres, Kubernetes, Kafka.
 
