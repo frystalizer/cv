@@ -22,7 +22,7 @@ _Software engineer with more than 6 years working with Java, familiar with Agile
 Technologies: REST, Spring Boot, OpenAPI, Postgres, Kubernetes, Kafka.
 
 Achievements:
-- Gains hands-on experience using Kafka, Kubernetes
+- Gains hands-on experience using Kafka, Kubernetes, AWS services.
 
 ### Full Stack Software Engineer @ [ubitec](https://ubitec.com/) _(Nov 2017 - April 2022)_ <br/>
 - Provided leadership for a team of 3 junior software engineers and mentorship for newcomers, supported team members with technical and business concern.
@@ -115,4 +115,7 @@ Achievement:
 **[FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/responsive-web-design)** - (May 2022)
 
 **[Certified Kubernetes Application Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd0962f6-accf-40d3-b464-b2a5b8f4e64f-l-thi-minh-tn-416af59b-b627-4d92-88b7-1eea03468031-certificate.pdf)** - (Jan 2023)
+
+**[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/0ef52f6a-f0db-41b4-b325-2083e84c62df)** - (Aug 2023)
+
 
