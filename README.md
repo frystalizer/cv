@@ -24,7 +24,7 @@ Technologies: REST, Spring Boot, OpenAPI, Postgres, Kubernetes, Kafka.
 Achievements:
 - Gains hands-on experience using Kafka, Kubernetes, AWS services.
 
-### Full Stack Software Engineer @ [ubitec](https://ubitec.com/) _(Nov 2017 - April 2022)_ <br/>
+### Full Stack Software Engineer @ ubitec _(Nov 2017 - April 2022)_ <br/>
 - Provided leadership for a team of 3 junior software engineers and mentorship for newcomers, supported team members with technical and business concern.
 - Created documentations for projects setup guides.
 - Created DEV and STAGING environments using OpenShift 4.
