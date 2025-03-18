@@ -108,6 +108,8 @@ Achievement:
 
 ## 📚 Certifications:
 
+**[AWS Certified Machine Learning Engineer - Associate](https://www.credly.com/earner/earned/badge/5c06a1ff-04b9-4348-84b8-126532d7819d)** - (Mar 2025)
+
 **[AWS Certified Developer – Associate](https://www.credly.com/earner/earned/badge/7d3f17a6-b722-46d8-bf9a-bfa60ef2dbfb)** - (Feb 2025)
 
 **[Scientific Computing With Python](https://www.freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/scientific-computing-with-python-v7)** - (Jan 2025)
