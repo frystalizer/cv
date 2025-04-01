@@ -9,7 +9,7 @@ _Backend Engineer with 10 years working with Java/Kotlin, hands on AWS services 
 
 ## 💻 Work Experience
 
-### Advanced Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 - Present)_ <br/>
+### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 - Present)_ <br/>
 
 - Works as a Kotlin backend engineer.
 - Delivers both functional and non functional requirements and features.
