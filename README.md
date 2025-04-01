@@ -1,12 +1,11 @@
 # Tan Le
 
-_Software engineer with more than 10 years working with Java, familiar with Agile methodology, based in Ho Chi Minh, Viet Nam._ <br/>
+_Backend Engineer with 10 years working with Java/Kotlin, hands on AWS services & Kubernetes, familiar with Agile methodology, based in Ho Chi Minh, Viet Nam._ <br/>
 
 📪 Email   : frystalizer@gmail.com <br/>
 📱 Mobile  : 078 591 7402 <br/>
 🔗 LinkedIn: https://www.linkedin.com/in/tan-le-6ba908102/ <br/>
 🔗 GitHub  : https://github.com/frystalizer/ <br/>
-🔗 Skype   : minh.tan.le92
 
 ## 💻 Work Experience
 
@@ -107,6 +106,7 @@ Achievement:
 [Ho Chi Minh City Open University](http://www.oude.edu.vn/) - Ho Chi Minh, Viet Nam _(2010 - 2014)_
 
 ## 📚 Certifications:
+**[AWS Certified Data Engineer - Associate](https://www.credly.com/badges/27af1c00-667a-48a2-80ea-d1d8f66bfd38)** - (Mar 2025)
 
 **[AWS Certified Machine Learning Engineer - Associate](https://www.credly.com/earner/earned/badge/5c06a1ff-04b9-4348-84b8-126532d7819d)** - (Mar 2025)
 
