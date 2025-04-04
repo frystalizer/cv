@@ -124,5 +124,6 @@ Achievement:
 
 **Oracle Certified Associate, Java 7 SE Programmer** - (Dec 2015)
 
-
+## ✉️ Recommendation Letter(s):
+**From [Kenny Hoe](https://github.com/frystalizer/cv/blob/gh-pages/recommendation_letters/Kenny_Hoe_Recommendation_Letter.pdf)**
 
