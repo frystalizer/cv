@@ -4,10 +4,10 @@ _Backend Engineer with 10 years working with Java/Kotlin, hands on AWS services 
 
 📪 Email   : frystalizer@gmail.com <br/>
 📱 Mobile  : 078 591 7402 <br/>
-🔗 LinkedIn: https://www.linkedin.com/in/tan-le-6ba908102/ <br/>
-🔗 GitHub  : https://github.com/frystalizer/ <br/>
+🔗 LinkedIn: https://www.linkedin.com/in/tan-le-6ba908102 <br/>
+🔗 GitHub  : https://github.com/frystalizer <br/>
 
-## 💻 Work Experience
+## 💻 Work Experience:
 
 ### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 - Present)_ <br/>
 
@@ -30,7 +30,7 @@ Achievements:
 - Conducted peer code review.
 
 #### Project(s):
-**[UMB_ID](https://www.umb.ch/en/products/umb-id)**: An online digital identification solution with the goal to help the customer to digitally identify in a simple yet secure way.
+**[UMB_ID]**: An online digital identification solution with the goal to help the customer to digitally identify in a simple yet secure way.
 
 Technologies: Angular, REST, Spring Boot, OpenAPI, Postgres, Docker, OpenShift, Helm.
 
@@ -100,7 +100,7 @@ Achievement:
 **English**: Professional fluently<br/>
 **Vietnamese**: Native <br/>
 
-## 🎓 Education
+## 🎓 Education:
 
 **Bachelor** in **Computer Science**<br/>
 [Ho Chi Minh City Open University](http://www.oude.edu.vn/) - Ho Chi Minh, Viet Nam _(2010 - 2014)_
