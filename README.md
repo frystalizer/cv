@@ -2,11 +2,11 @@
 
 _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS services and Kubernetes. Agile-savvy and based in Ho Chi Minh City, Vietnam._ <br/>
 
-📪 Email   : **[frystalizer@gmail.com](mailto:frystalizer@gmail.com)** </br>
-📱 Mobile  : +84 78 591 7402 </br>
-🔗 LinkedIn: **[linkedin.com/in/tan-le-6ba908102](https://www.linkedin.com/in/tan-le-6ba908102)** </br>
-🔗 GitHub  : **[github.com/frystalizer](https://github.com/frystalizer)** </br>
-📄 CV      : **[frystalizer.github.io/cv](https://frystalizer.github.io/cv)** </br>
+📪 Email   : **[frystalizer@gmail.com](mailto:frystalizer@gmail.com)** <br/>
+📱 Mobile  : +84 78 591 7402 <br/>
+🔗 LinkedIn: **[linkedin.com/in/tan-le-6ba908102](https://www.linkedin.com/in/tan-le-6ba908102)** <br/>
+🔗 GitHub  : **[github.com/frystalizer](https://github.com/frystalizer)** <br/>
+📄 CV      : **[frystalizer.github.io/cv](https://frystalizer.github.io/cv)** <br/>
 
 ---
 
