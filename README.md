@@ -11,9 +11,9 @@ _Backend Engineer with 10 years working with Java/Kotlin, hands on AWS services 
 
 ### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 - Present)_ <br/>
 
-- Works as a Kotlin backend engineer.
-- Delivers both functional and non functional requirements and features.
-- Provides support for Production issues.
+- Works as a Kotlin backend engineer to deliver both functional and non functional requirements and features.
+- Provides support for Production issues and collaborate with the Architect teams to discuss solution designs and testing deliverables.
+- Work as data engineer to modify existing pipeline to adapt new requirements from business, add new pipeline for data aggregation.
 
 #### Project(s):
 **[Digital Bank]**: An digital bank for Singapore region
@@ -106,6 +106,9 @@ Achievement:
 [Ho Chi Minh City Open University](http://www.oude.edu.vn/) - Ho Chi Minh, Viet Nam _(2010 - 2014)_
 
 ## 📚 Certifications:
+**[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F9EC30BEA6DEEBCC904E80C479AA19574CAFD6AABBA8977224898B90F0929348)** - (July 2025)
+
+**[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4B4B447F343277F5F531A1D1D5B69337A63BE6428F8230F9727BCFFA419DA9DC)** - (July 2025)
 
 **[AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/cc067ecc-a6be-478d-be19-ba8181b31788)** - (Apr 2025)
 
@@ -123,9 +126,9 @@ Achievement:
 
 **[FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/responsive-web-design)** - (May 2022)
 
-**Scrum Certification for Java Developer** - (Dec 2015)
+**[Scrum Certification for Java Developer](https://github.com/frystalizer/cv/blob/gh-pages/certs/Scrum-Institute.org-SC4JD84889624e8-82093907263129.pdf)** - (Dec 2015)
 
-**Oracle Certified Associate, Java 7 SE Programmer** - (Dec 2015)
+**[Oracle Certified Associate, Java 7 SE Programmer](https://github.com/frystalizer/cv/blob/gh-pages/certs/OCA%20Java%207%20SE.pdf)** - (Dec 2015)
 
 ## ✉️ Recommendation Letter(s):
 **From [Kenny Hoe](https://github.com/frystalizer/cv/blob/gh-pages/recommendation_letters/Kenny_Hoe_Recommendation_Letter.pdf)**
