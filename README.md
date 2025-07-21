@@ -23,14 +23,14 @@ Technologies: REST, Spring Boot, OpenAPI, Postgres, Kubernetes, Kafka.
 Achievements:
 - Gains hands-on experience using Kafka, Kubernetes, AWS services.
 
-### Full Stack Software Engineer @ ubitec _(Nov 2017 - April 2022)_ <br/>
+### Full Stack Software Engineer @ [mesoneer](https://www.mesoneer.io/) (formerly ubitec) _(Nov 2017 - April 2022)_ <br/>
 - Provided leadership for a team of 3 junior software engineers and mentorship for newcomers, supported team members with technical and business concern.
 - Created documentations for projects setup guides.
 - Created DEV and STAGING environments using OpenShift 4.
 - Conducted peer code review.
 
 #### Project(s):
-**[UMB_ID]**: An online digital identification solution with the goal to help the customer to digitally identify in a simple yet secure way.
+**[UMB_ID](https://www.mesoneer.io/digital-trust-platform)**: An online digital identification solution with the goal to help the customer to digitally identify in a simple yet secure way.
 
 Technologies: Angular, REST, Spring Boot, OpenAPI, Postgres, Docker, OpenShift, Helm.
 
@@ -46,7 +46,7 @@ Achievements:
 - Quickly analyzed and took over the project within 2 weeks.
 - Found a work-around to achieve customers’ needs with limited GUI Framework functionality.
 
-**CIC**: An AXON.ivy backend-based web application integrated with Angular frontend to digitalize the bank on-boarding process.
+**[CIC](https://www.cic.ch/en/)**: An AXON.ivy backend-based web application integrated with Angular frontend to digitalize the bank on-boarding process.
 Technologies: AXON.ivy, HTML/CSS, Angular, REST, Oracle Database, Drools, Docker.
 Achievements:
 - Successfully applied Drools onto the existing backend application which gives the customer the ability to control the flow of the application by writing their own rules within provided context.
@@ -79,7 +79,7 @@ Achievements:
 - Got experience working following Scrum.
 <hr>
 
-### Associate Software Engineer @ [DXC Viet Nam](https://www.dxc.technology/vn_en) _(Sep 2014 - Oct 2016)_ <br/>
+### Associate Software Engineer @ [DXC Viet Nam](https://www.dxc.technology/vn_en) (formerly CSC Vietnam) _(Sep 2014 - Oct 2016)_ <br/>
 - Served as a developer in a team of 10 developers.
 - Attended daily report meeting with Indian team.
 - Resolved defects reported by BA team in JIRA system.
