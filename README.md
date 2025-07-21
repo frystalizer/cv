@@ -2,17 +2,17 @@
 
 _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS services and Kubernetes. Agile-savvy and based in Ho Chi Minh City, Vietnam._ <br/>
 
-**📪 Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [frystalizer@gmail.com](mailto:frystalizer@gmail.com)  
-**📱 Mobile**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +84 78 591 7402  
-**🔗 LinkedIn**&nbsp;&nbsp;&nbsp;: [linkedin.com/in/tan-le-6ba908102](https://www.linkedin.com/in/tan-le-6ba908102)  
-**🔗 GitHub**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [github.com/frystalizer](https://github.com/frystalizer)  
-**📄 CV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [frystalizer.github.io/cv](https://frystalizer.github.io/cv)
+📪 Email   : **[frystalizer@gmail.com](mailto:frystalizer@gmail.com)**
+📱 Mobile  : +84 78 591 7402  
+🔗 LinkedIn: **[linkedin.com/in/tan-le-6ba908102](https://www.linkedin.com/in/tan-le-6ba908102)**
+🔗 GitHub  : **[github.com/frystalizer](https://github.com/frystalizer)**
+📄 CV      : **[frystalizer.github.io/cv](https://frystalizer.github.io/cv)**
 
 ---
 
 ## 💻 Work Experience
 
-### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 – Present)_ <br/>
+### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 – Present)_
 
 - Work as a Kotlin backend engineer delivering both functional and non-functional features.
 - Provide support for production issues and collaborate with architects on solution design and testing deliverables.
@@ -27,7 +27,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 
 ---
 
-### Full Stack Software Engineer @ [mesoneer](https://www.mesoneer.io) (formerly ubitec) _(Nov 2017 – Apr 2022)_ <br/>
+### Full Stack Software Engineer @ [mesoneer](https://www.mesoneer.io) (formerly ubitec) _(Nov 2017 – Apr 2022)_
 
 - Led a team of 3 junior software engineers and mentored newcomers, supporting both technical and business concerns.
 - Authored project setup documentation.
@@ -73,7 +73,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 
 ---
 
-### Software Engineer @ [Axon Active Vietnam](https://www.axonactive.com) _(Oct 2016 – Sep 2017)_ <br/>
+### Software Engineer @ [Axon Active Vietnam](https://www.axonactive.com) _(Oct 2016 – Sep 2017)_
 
 - Worked in a Scrum team of 9 developers alongside a Scrum Master and Product Owner.
 - Participated in all Scrum ceremonies: planning, daily stand-ups, reviews, and retrospectives.
@@ -91,7 +91,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 
 ---
 
-### Associate Software Engineer @ [DXC Vietnam](https://www.dxc.technology/vn_en) (formerly CSC Vietnam) _(Sep 2014 – Oct 2016)_ <br/>
+### Associate Software Engineer @ [DXC Vietnam](https://www.dxc.technology/vn_en) (formerly CSC Vietnam) _(Sep 2014 – Oct 2016)_
 
 - Contributed to a 10-member team on core application development.
 - Attended daily syncs with offshore Indian teams.
@@ -142,4 +142,4 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 
 ## ✉️ Recommendation Letter(s)
 
-- **[From Kenny Hoe](https://github.com/frystalizer/cv/blob/gh-pages/recommendation_letters/Kenny_Hoe_Recommendation_Letter.pdf)**
+- From **[Kenny Hoe](https://github.com/frystalizer/cv/blob/gh-pages/recommendation_letters/Kenny_Hoe_Recommendation_Letter.pdf)**
