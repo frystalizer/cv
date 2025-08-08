@@ -125,6 +125,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 
 ## 📚 Certifications
 
+- **[Foundational C# with Microsoft](https://freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/foundational-c-sharp-with-microsoft)** – Aug 2025  
 - **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F9EC30BEA6DEEBCC904E80C479AA19574CAFD6AABBA8977224898B90F0929348)** – Jul 2025  
 - **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4B4B447F343277F5F531A1D1D5B69337A63BE6428F8230F9727BCFFA419DA9DC)** – Jul 2025  
 - **[AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/cc067ecc-a6be-478d-be19-ba8181b31788)** – Apr 2025  
