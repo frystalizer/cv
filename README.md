@@ -18,7 +18,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 - Collaborate with the Architect teams to discuss solution designs and testing deliverables.
 
 #### Project(s):
-**[Trust Bank](https://trustbank.sg/) **: A digitally-native bank for the Singapore market.  
+**[Trust Bank](https://trustbank.sg/)**: A digitally-native bank for the Singapore market.  
 **Technologies**: Java, Kotlin, Spring Boot, Postgres, Kafka, AWS services, Kubernetes
 
 **Achievements:**
