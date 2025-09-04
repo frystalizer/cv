@@ -14,13 +14,12 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 
 ### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 – Present)_
 
-- Work as a Kotlin backend engineer delivering both functional and non-functional features.
-- Provide support for production issues and collaborate with architects on solution design and testing deliverables.
-- Act as a data engineer to enhance existing pipelines and create new data aggregation workflows.
+- Work as back-end engineer of Credit Risk domain and responsible for both functional and nonfunctional features. 
+- Collaborate with the Architect teams to discuss solution designs and testing deliverables.
 
 #### Project(s):
-**[Digital Bank]**: A digital banking platform for the Singapore market.  
-**Technologies**: REST, Spring Boot, OpenAPI, Postgres, Kubernetes, Kafka.
+**[Trust Bank](https://trustbank.sg/) **: A digitally-native bank for the Singapore market.  
+**Technologies**: Java, Kotlin, Spring Boot, Postgres, Kafka, AWS services, Kubernetes
 
 **Achievements:**
 - Gained hands-on experience with Kafka, Kubernetes, and various AWS services.
