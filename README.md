@@ -46,7 +46,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 ---
 
 **[VZ](https://www.vermoegenszentrum.ch/), [ABS](https://www.abs.ch/en), [WIR](https://www.wir.ch)**: Java-based BPM banking solutions for customer self-registration and internal onboarding automation.  
-**Technologies**: Java core, HTML/CSS, JavaScript, JSF, REST, SOAP, Postgres, Docker.
+**Technologies**: Java, HTML/CSS, JavaScript, JSF, REST, SOAP, Postgres, Docker.
 
 **Achievements:**
 - Took over the project within 2 weeks with minimal handover.
@@ -55,7 +55,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 ---
 
 **[CIC](https://www.cic.ch/en)**: Java-based BPM backend integrated with Angular frontend for onboarding digitization.  
-**Technologies**: Java core, HTML/CSS, Angular, REST, Oracle DB, Drools, Docker.
+**Technologies**: Java, HTML/CSS, Angular, REST, Oracle DB, Drools, Docker.
 
 **Achievements:**
 - Integrated Drools into the backend, allowing customers to define dynamic rules within a pre-defined context.
@@ -63,7 +63,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 ---
 
 **Module Finder**: Mortgage visualization tool providing key insights (risk, interest rates, etc.).  
-**Technologies**: Java core, JSF, HTML/CSS, JavaScript, html2canvas, jQuery.
+**Technologies**: Java, JSF, HTML/CSS, JavaScript, html2canvas, jQuery.
 
 **Achievements:**
 - Delivered the project within 2 months.
@@ -81,7 +81,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 #### Project(s):
 
 **Acrevis, Liberty**: Java-based BPM projects aimed at digitizing internal banking workflows.  
-**Technologies**: Java core, HTML/CSS, JavaScript, PrimeFaces, REST, Postgres, Aspose.
+**Technologies**: Java, HTML/CSS, JavaScript, PrimeFaces, REST, Postgres, Aspose.
 
 **Achievements:**
 - Acquired frontend development skills: JavaScript, jQuery, HTML/CSS.
@@ -99,7 +99,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 #### Project(s):
 
 **ExceedJ**: Java-based web app for non-life insurance, improving client/agent services and internal operations.  
-**Technologies**: Java core, HTML/CSS, JavaScript, PrimeFaces, REST, SOAP, IBM WebSphere, Tomcat, IBM DB2, SVN.
+**Technologies**: Java, HTML/CSS, JavaScript, PrimeFaces, REST, SOAP, IBM WebSphere, Tomcat, IBM DB2, SVN.
 
 **Achievements:**
 - Selected to join the Indian delivery team.
