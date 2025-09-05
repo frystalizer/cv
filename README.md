@@ -142,4 +142,4 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 
 ## ✉️ Recommendation Letter(s)
 
-- From **[Kenny Hoe](https://github.com/frystalizer/cv/blob/gh-pages/recommendation_letters/Kenny_Hoe_Recommendation_Letter.pdf)**
+- From **[Kenny Hoe](https://github.com/frystalizer/cv/blob/gh-pages/recommendation_letters/Kenny_Hoe_Recommendation_Letter.pdf)** at **[Trust Bank](https://trustbank.sg/)**
