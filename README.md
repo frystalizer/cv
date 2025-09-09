@@ -15,10 +15,20 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 ### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 – Present)_
 
 - Work as back-end engineer of Credit Risk domain and responsible for both functional and non-functional features.
+- Work as data engineer to modify existing pipeline to adapt new requirements from business, add new pipeline for data aggregation.
 - Collaborate with multiple domains team and Architect teams to discuss solution designs and testing deliverables.
 - Provided mentoring for new members and support for both technical or business queries.
 
 #### Project(s):
+**[Boston Scientific](https://www.bostonscientific.com/en-US/home.html)**: Life Sciences industry in a multi-year digital transformation program. The objectives are to optimize and enhance data, mobile and web platforms to support core business applications for Sales, Marketing and Regulatory Affair teams.
+
+**Technologies**: Python, PySpark, AWS services: S3, Athena, Glue, CloudFormation, Event Bridge, CloudWatch, Step Function.
+
+**Achievements:**
+- Gained hands-on experience with PySpark to build ETL pipeline and various AWS services.
+
+---
+
 **[Trust Bank](https://trustbank.sg/)**: A digitally-native bank for the Singapore market.  
 **Technologies**: Java, Kotlin, Spring Boot, Microservices, Kubernetes, Postgres, Kafka, AWS services.
 
