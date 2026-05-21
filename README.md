@@ -1,23 +1,40 @@
 # Tan Le
 
-_Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS services and Kubernetes. Agile-savvy and based in Ho Chi Minh City, Vietnam._ <br/>
+_Backend Engineer with 10+ years of experience delivering enterprise software solutions across banking, insurance, and life sciences domains. Experienced in Java/Kotlin, microservices, AWS, Kubernetes, and data engineering, with a strong focus on cloud-native platforms, system modernization, and cross-functional collaboration within consultancy environments._ <br/>
 
 📪 Email   : **[frystalizer@gmail.com](mailto:frystalizer@gmail.com)** <br/>
 📱 Mobile  : +84 78 591 7402 <br/>
 🔗 LinkedIn: **[linkedin.com/in/tan-le-6ba908102](https://www.linkedin.com/in/tan-le-6ba908102)** <br/>
-🔗 GitHub  : **[github.com/frystalizer](https://github.com/frystalizer)** <br/>
 📄 CV      : **[frystalizer.github.io/cv](https://frystalizer.github.io/cv)** <br/>
 
 ---
 
 ## 💻 Work Experience
 
-### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 – Present)_
+### Senior Software Engineer @ [NAB Innovation Centre Vietnam](https://www.nab.com.au/about-us/careers/nabvietnam) _(November 2025 – Present)_
 
-- Work as back-end engineer of Credit Risk domain and responsible for both functional and non-functional features.
-- Work as data engineer to modify existing pipeline to adapt new requirements from business, add new pipeline for data aggregation.
-- Collaborate with multiple domains team and Architect teams to discuss solution designs and testing deliverables.
-- Provided mentoring for new members and support for both technical or business queries.
+- Contributed to a large-scale backend modernization initiative focused on consolidating 22 microservices into 2 domain-aligned services to improve maintainability, scalability, and operational efficiency.
+- Participated in service refactoring, business logic migration, and API integration alignment during microservice consolidation efforts.
+- Collaborated with engineers, QA, DevOps, and business stakeholders to analyze service dependencies and support phased migration activities.
+- Supported CI/CD and deployment coordination during migration and service decommissioning phases within Kubernetes-based environments.
+- Participated in production support and operational standby rotations to ensure system stability during migration rollout.
+
+#### Project(s):
+**Aurora**: A Corporate & Institutional Banking platform that provides bankers a consolidated workbench for managing client portfolios, facilities, credit submissions, covenants, reviews and alerts across the customer lifecyle.
+
+**Technologies**: Spring Boot, Microservices, Kubernetes, Postgres, Kafka, AWS services: S3, Glue
+
+**Achievements:**
+- Improved maintainability and reduced technical debt through consolidation and removal of duplicated service logic (~11K LOC).
+
+### Expert Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 – Oct 2025)_
+
+- Worked across banking and life sciences domains as a backend and data engineer within multi-national consultancy delivery teams.
+- Delivered both functional and non-functional enhancements for microservices-based systems in highly regulated enterprise environments.
+- Designed and enhanced ETL/data processing pipelines using PySpark and AWS data services.
+- Collaborated with architects, QA engineers, business analysts, and cross-domain teams to define technical solutions and delivery strategies.
+- Participated in Agile ceremonies, technical discussions, estimation, and solution design workshops with client stakeholders.
+- Mentored junior engineers and supported onboarding activities for new members.
 
 #### Project(s):
 **[Boston Scientific](https://www.bostonscientific.com/en-US/home.html)**: Life Sciences industry in a multi-year digital transformation program. The objectives are to optimize and enhance data, mobile and web platforms to support core business applications for Sales, Marketing and Regulatory Affair teams.
@@ -25,7 +42,7 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 **Technologies**: Python, PySpark, AWS services: S3, Athena, Glue, CloudFormation, Event Bridge, CloudWatch, Step Function.
 
 **Achievements:**
-- Gained hands-on experience with PySpark to build ETL pipeline and various AWS services.
+- Worked on cloud-native ETL pipelines using PySpark and AWS services to support business reporting and analytics needs.
 
 ---
 
@@ -33,8 +50,8 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 **Technologies**: Java, Kotlin, Spring Boot, Microservices, Kubernetes, Postgres, Kafka, AWS services.
 
 **Achievements:**
-- Gained hands-on experience with Kafka, Kubernetes, and various AWS services.
-- Exposure with microservices architect and collaboration with cross domain teams.
+- Worked extensively with Kafka-based event-driven architectures and Kubernetes deployment environments within cloud-native platforms.
+- Collaborated with cross-domain engineering teams within a microservices-based architecture supporting digital banking platforms.
 
 ---
 
@@ -134,23 +151,35 @@ _Backend Engineer with 10+ years of experience in Java/Kotlin, hands-on with AWS
 
 ---
 
-## 📚 Certifications
+## 🛠 Technical Skills
 
-- **[Foundational C# with Microsoft](https://freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/foundational-c-sharp-with-microsoft)** – Aug 2025  
-- **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F9EC30BEA6DEEBCC904E80C479AA19574CAFD6AABBA8977224898B90F0929348)** – Jul 2025  
-- **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4B4B447F343277F5F531A1D1D5B69337A63BE6428F8230F9727BCFFA419DA9DC)** – Jul 2025  
+**Languages:** Java, Kotlin, Python, SQL  
+**Backend:** Spring Boot, REST APIs, Microservices, Kafka  
+**Cloud & DevOps:** AWS, Kubernetes, Docker, Helm, CI/CD  
+**Data Engineering:** PySpark, AWS Glue, Athena, Step Functions  
+**Databases:** Postgres 
+**Frontend:** Angular, JSF, HTML/CSS, JavaScript  
+**Methodologies:** Agile, Scrum, TDD, Code Review
+
+## 📚 Core Certifications
 - **[AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/cc067ecc-a6be-478d-be19-ba8181b31788)** – Apr 2025  
 - **[AWS Certified Data Engineer – Associate](https://www.credly.com/badges/27af1c00-667a-48a2-80ea-d1d8f66bfd38)** – Mar 2025  
 - **[AWS Certified Machine Learning – Specialty](https://www.credly.com/earner/earned/badge/5c06a1ff-04b9-4348-84b8-126532d7819d)** – Mar 2025  
 - **[AWS Certified Developer – Associate](https://www.credly.com/earner/earned/badge/7d3f17a6-b722-46d8-bf9a-bfa60ef2dbfb)** – Feb 2025  
-- **[Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/scientific-computing-with-python-v7)** – Jan 2025  
 - **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/0ef52f6a-f0db-41b4-b325-2083e84c62df)** – Aug 2023  
 - **[Certified Kubernetes Application Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd0962f6-accf-40d3-b464-b2a5b8f4e64f-l-thi-minh-tn-416af59b-b627-4d92-88b7-1eea03468031-certificate.pdf)** – Jan 2023  
-- **[FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/responsive-web-design)** – May 2022  
-- **[Scrum Certification for Java Developer](https://github.com/frystalizer/cv/blob/gh-pages/certs/Scrum-Institute.org-SC4JD84889624e8-82093907263129.pdf)** – Dec 2015  
 - **[Oracle Certified Associate, Java SE 7 Programmer](https://github.com/frystalizer/cv/blob/gh-pages/certs/OCA%20Java%207%20SE.pdf)** – Dec 2015
 
 ---
+
+## Additional Certifications:
+- **[Foundational C# with Microsoft](https://freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/foundational-c-sharp-with-microsoft)** – Aug 2025  
+- **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F9EC30BEA6DEEBCC904E80C479AA19574CAFD6AABBA8977224898B90F0929348)** – Jul 2025  
+- **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4B4B447F343277F5F531A1D1D5B69337A63BE6428F8230F9727BCFFA419DA9DC)** – Jul 2025
+- **[Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/scientific-computing-with-python-v7)** – Jan 2025
+- **[FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/fcc40ae9810-9b5b-4364-9f80-c103932bf8c4/responsive-web-design)** – May 2022  
+- **[Scrum Certification for Java Developer](https://github.com/frystalizer/cv/blob/gh-pages/certs/Scrum-Institute.org-SC4JD84889624e8-82093907263129.pdf)** – Dec 2015  
+
 
 ## ✉️ Recommendation Letter(s)
 
