@@ -15,9 +15,7 @@ _Backend Engineer with 10+ years of experience delivering enterprise software so
 
 - Contributed to a large-scale backend modernization initiative focused on consolidating 22 microservices into 2 domain-aligned services to improve maintainability, scalability, and operational efficiency.
 - Participated in service refactoring, business logic migration, and API integration alignment during microservice consolidation efforts.
-- Collaborated with engineers, QA, DevOps, and business stakeholders to analyze service dependencies and support phased migration activities.
-- Supported CI/CD and deployment coordination during migration and service decommissioning phases within Kubernetes-based environments.
-- Participated in production support and operational standby rotations to ensure system stability during migration rollout.
+- Collaborated with the DevOps team to support production deployments and standby operations.
 
 #### Project(s):
 **Aurora**: A Corporate & Institutional Banking platform that provides bankers a consolidated workbench for managing client portfolios, facilities, credit submissions, covenants, reviews and alerts across the customer lifecyle.
