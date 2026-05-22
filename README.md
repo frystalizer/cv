@@ -1,6 +1,6 @@
 # Tan Le
 
-_Backend Engineer with 10+ years of experience delivering enterprise software solutions across banking, insurance, and life sciences domains. Experienced in Java/Kotlin, microservices, AWS, Kubernetes, and data engineering, with a strong focus on cloud-native platforms, system modernization, and cross-functional collaboration within consultancy environments._ <br/>
+_Backend Engineer with 10+ years of experience delivering software solutions across banking, insurance domains. Experienced in Java/Kotlin, microservices, AWS, Kubernetes, and data engineering, with a strong focus on cloud-native platforms, system modernization, and cross-functional collaboration within consultancy environments._ <br/>
 
 📪 Email   : **[frystalizer@gmail.com](mailto:frystalizer@gmail.com)** <br/>
 📱 Mobile  : +84 78 591 7402 <br/>
